@@ -1,7 +1,7 @@
 package main
 
 import (
-	"http/pkg/server"
+	"github.com/iamgafurov/http/pkg/server"
 	"os"
 	"net"
 	"strconv"
